@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Akash Tanna 👋</div>
 
 <div align="center">
-  <h3>Founder @ <a href="https://github.com/PoweredByAkash">Powered By Akash (PBA)</a></h3>
+  <h3>Founder @ <a href="https://github.com/Powered-By-Akash">Powered By Akash (PBA)</a></h3>
   <p><strong>Bridging Civil Engineering & Digital Software with Pure Python, CAD Automation & Scalable Web Platforms.</strong></p>
 
   <p>
