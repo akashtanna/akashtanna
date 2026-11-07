@@ -6,6 +6,7 @@
 
   <p>
     <a href="https://github.com/akashtanna"><img src="https://img.shields.io/badge/GitHub-akashtanna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+        <a href="https://poweredbyakash.in"><img src="https://img.shields.io/badge/Website-poweredbyakash.in-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"></a>
     <a href="https://wa.me/919016048986"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
     <a href="mailto:Poweredbyakash@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Founder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <img src="https://img.shields.io/badge/Since-2021-06B6D4?style=for-the-badge" alt="Since 2021">
@@ -31,6 +32,7 @@ Here you can explore and clone the open developer toolkits, scripts, and computa
 
 | Package / Repository | Category | Description | Stack |
 | :--- | :--- | :--- | :--- |
+| **[PBA-GUI](https://github.com/Powered-By-Akash/PBA-GUI)** | 🖥️ GUI Framework | Python Tkinter GUI Framework & Visual Component Library for PBA desktop applications & consoles. | `Python` `Tkinter` |
 | **[pba-hydraulics-core](https://github.com/akashtanna/pba-hydraulics-core)** | 💧 Hydraulics | Hardy Cross & Hazen-Williams distribution network balancing simulation engine. | `Python` `Math` |
 | **[autocad-lisp-utility-pack](https://github.com/akashtanna/autocad-lisp-utility-pack)** | 📐 CAD Scripts | Automated drawing generation, coordinate exports, elevation markers, and batch text tools. | `AutoLISP` `CAD` |
 | **[pba-structural-is456](https://github.com/akashtanna/pba-structural-is456)** | 🏗️ Structural | Code-compliant RCC beam, slab, and column automated design derivation strictly as per IS 456:2000. | `Python` `IS456` |
@@ -92,7 +94,7 @@ Whether you are looking for custom computational algorithms, structural calculat
 
 - 💬 **WhatsApp Direct:** [+91 9016048986](https://wa.me/919016048986?text=Hi%20Akash%2C%20I%20am%20interested%20in%20your%20Coding%20Packages%20and%20Resources)
 - ✉️ **Email Inquiry:** [Poweredbyakash@gmail.com](mailto:Poweredbyakash@gmail.com)
-- 🌐 **PBA Ecosystem:** Explore our live platforms at [Powered By Akash](https://poweredbyakash.com)
+- 🌐 **PBA Ecosystem:** Explore our live platforms at [Powered By Akash](https://poweredbyakash.in)
 
 <br>
 
