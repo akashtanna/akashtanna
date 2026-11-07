@@ -35,6 +35,7 @@ Here you can explore and clone the open developer toolkits, scripts, and computa
 | **[PBA-GUI](https://github.com/Powered-By-Akash/PBA-GUI)** | 🖥️ GUI Framework | Python Tkinter GUI Framework & Visual Component Library for PBA desktop applications & consoles. | `Python` `Tkinter` | `Released` |
 | **[VDA-Mail](https://github.com/Powered-By-Akash/VDA-Mail)** | ✉️ Automation | Virtual Development Assistant (VDA) automated SMTP dispatcher & transactional email engine for PBA platforms. | `Python` `SMTP` | `Released` |
 | **[VDA-Unique_ID](https://github.com/Powered-By-Akash/VDA-Unique_ID)** | 🔑 Security & Auth | Virtual Development Assistant (VDA) collision-resistant unique identifier, token, and PIN generator. | `Python` `Security` | `Released` |
+| **[PBA-AutoPack](https://github.com/Powered-By-Akash/PBA-AutoPack)** | 📐 CAD Automation | Python COM automation engine & high-precision vector drafting toolkit for Autodesk AutoCAD. | `Python` `AutoCAD API` | `Released` |
 
 *(Packages are registered here one by one as they are published to GitHub)*
 
