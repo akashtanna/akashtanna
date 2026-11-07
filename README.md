@@ -33,6 +33,7 @@ Here you can explore and clone the open developer toolkits, scripts, and computa
 | Package / Repository | Category | Description | Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **[PBA-GUI](https://github.com/Powered-By-Akash/PBA-GUI)** | 🖥️ GUI Framework | Python Tkinter GUI Framework & Visual Component Library for PBA desktop applications & consoles. | `Python` `Tkinter` | `Released` |
+| **[VDA-Mail](https://github.com/Powered-By-Akash/VDA-Mail)** | ✉️ Automation | Virtual Development Assistant (VDA) automated SMTP dispatcher & transactional email engine for PBA platforms. | `Python` `SMTP` | `Released` |
 
 *(Packages are registered here one by one as they are published to GitHub)*
 
@@ -81,7 +82,3 @@ Whether you are looking for custom computational algorithms, structural calculat
 - 🌐 **PBA Ecosystem:** Explore our live platforms at [Powered By Akash](https://www.poweredbyakash.in/)
 
 <br>
-
-<div align="center">
-  <sub>SINCE 2021 &bull; ✦ &bull; POWERED BY AKASH (PBA) &bull; ALL RIGHTS RESERVED</sub>
-</div>
