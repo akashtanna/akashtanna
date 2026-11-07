@@ -20,7 +20,7 @@
 I engineer specialized computational software, automated design engines, and precision CAD tools. Through **Powered By Akash (PBA)**, I create and distribute verified mathematical algorithms and developer packages designed to eliminate manual spreadsheet errors and automate hours of repetitive engineering workflows.
 
 - 🔬 **Primary Focus:** Pure Python Civil Computational Engines, Water Network Hydraulics & Structural Solvers.
-- 📐 **CAD Automation:** AutoCAD LISP Routines, Win32 / Python COM Automation & CSV Coordinate Transformers.
+- 📐 **CAD Automation:** AutoCAD COM Automation, Python Scripting & CSV Coordinate Transformers.
 - 🌐 **Full-Stack Digital Assets:** Lightweight Web Apps, Financial & Operational Excel Dashboards, and Technical Decks.
 - 📍 **Location:** Gujarat, India.
 
@@ -30,15 +30,11 @@ I engineer specialized computational software, automated design engines, and pre
 
 Here you can explore and clone the open developer toolkits, scripts, and computational modules distributed across the **PBA Ecosystem**:
 
-| Package / Repository | Category | Description | Stack |
-| :--- | :--- | :--- | :--- |
-| **[PBA-GUI](https://github.com/Powered-By-Akash/PBA-GUI)** | 🖥️ GUI Framework | Python Tkinter GUI Framework & Visual Component Library for PBA desktop applications & consoles. | `Python` `Tkinter` |
-| **[pba-hydraulics-core](https://github.com/akashtanna/pba-hydraulics-core)** | 💧 Hydraulics | Hardy Cross & Hazen-Williams distribution network balancing simulation engine. | `Python` `Math` |
-| **[autocad-lisp-utility-pack](https://github.com/akashtanna/autocad-lisp-utility-pack)** | 📐 CAD Scripts | Automated drawing generation, coordinate exports, elevation markers, and batch text tools. | `AutoLISP` `CAD` |
-| **[pba-structural-is456](https://github.com/akashtanna/pba-structural-is456)** | 🏗️ Structural | Code-compliant RCC beam, slab, and column automated design derivation strictly as per IS 456:2000. | `Python` `IS456` |
-| **[automated-rebar-bbs](https://github.com/akashtanna/automated-rebar-bbs)** | 📊 Excel / VBA | Instant Bar Bending Schedule (BBS) generator directly from structural schedules. | `Excel` `VBA` `Python` |
-| **[survey-csv-importer](https://github.com/akashtanna/survey-csv-importer)** | 🗺️ Geotech | Auto-import Total Station & Topo survey CSV points into AutoCAD as labeled blocks & 3D polylines. | `AutoCAD` `LISP` `CSV` |
-| **[stormwater-culvert-sizer](https://github.com/akashtanna/stormwater-culvert-sizer)** | 🌧️ Drainage | Rational method runoff and pipe sizing engine with rainfall intensity curves. | `Python` `Hydrology` |
+| Package / Repository | Category | Description | Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[PBA-GUI](https://github.com/Powered-By-Akash/PBA-GUI)** | 🖥️ GUI Framework | Python Tkinter GUI Framework & Visual Component Library for PBA desktop applications & consoles. | `Python` `Tkinter` | `Released` |
+
+*(Packages are registered here one by one as they are published to GitHub)*
 
 ---
 
@@ -49,7 +45,7 @@ Here you can explore and clone the open developer toolkits, scripts, and computa
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Computational Engines** | `Python` `NumPy` `SciPy` `SymPy` `Algorithms` |
-| **CAD Automation** | `AutoCAD API` `AutoLISP` `pyautocad` `win32com` `DXF / DWG` |
+| **CAD Automation** | `AutoCAD API` `Python COM` `pyautocad` `win32com` `DXF / DWG` |
 | **Full-Stack Web** | `HTML5` `CSS3 / Modern Glassmorphism` `JavaScript (ES6+)` `Node.js` |
 | **Spreadsheets & Data** | `Microsoft Excel` `VBA / Macros` `CSV Pipelines` `JSON APIs` |
 | **Tools & Platforms** | `Git` `GitHub` `VS Code` `Linux / Windows` |
@@ -63,14 +59,15 @@ Here you can explore and clone the open developer toolkits, scripts, and computa
 All computational engines are packaged for lightweight, dependency-free deployment:
 
 ```bash
-# Clone the PBA engineering modules toolkit
-git clone https://github.com/akashtanna/pba-engineering-toolkits.git
+# Install the PBA-GUI visual component framework
+pip install git+https://github.com/Powered-By-Akash/PBA-GUI.git
 
-# Navigate to the repository
-cd pba-engineering-toolkits
+# Or clone and run the visual demo
+git clone https://github.com/Powered-By-Akash/PBA-GUI.git
+cd PBA-GUI
+python examples/demo.py
 
-# Run calculation engine directly
-python -m pba_hydraulics.solver --network input_network.json
+
 ```
 
 ---
