@@ -21,7 +21,7 @@ I engineer specialized computational software, automated design engines, and pre
 - 🔬 **Primary Focus:** Pure Python Civil Computational Engines, Water Network Hydraulics & Structural Solvers.
 - 📐 **CAD Automation:** AutoCAD LISP Routines, Win32 / Python COM Automation & CSV Coordinate Transformers.
 - 🌐 **Full-Stack Digital Assets:** Lightweight Web Apps, Financial & Operational Excel Dashboards, and Technical Decks.
-- 📍 **Location:** Surat, Gujarat, India.
+- 📍 **Location:** Gujarat, India.
 
 ---
 
